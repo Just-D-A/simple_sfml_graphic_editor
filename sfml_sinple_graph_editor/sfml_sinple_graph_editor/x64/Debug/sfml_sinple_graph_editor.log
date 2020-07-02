@@ -1,0 +1,12 @@
+﻿  sfml_sinple_graph_editor.cpp
+C:\Users\prosp\source\repos\sfml_sinple_graph_editor\sfml_sinple_graph_editor\Background.cpp(61,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\prosp\source\repos\sfml_sinple_graph_editor\sfml_sinple_graph_editor\Background.cpp(77,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  sfml_sinple_graph_editor.vcxproj -> C:\Users\prosp\source\repos\sfml_sinple_graph_editor\x64\Debug\sfml_sinple_graph_editor.exe
